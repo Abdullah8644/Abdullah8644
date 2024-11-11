@@ -37,8 +37,8 @@
 ---
 
 ### 🏆 My Projects
-- **[Game Recommendation System](https://github.com/YourUsername/Game-Recommendation)** - Recommends games based on similarity with user preferences.
-- **[Student Performance Predictor](https://github.com/YourUsername/Student-Performance)** - Predicts academic performance using machine learning.
+- **[Game Recommendation System](https://github.com/Abdullah8644/Game-Recommendation-System)** - Recommends games based on similarity with user preferences.
+- **[Student Performance Predictor](https://github.com/Abdullah8644/Student-Performance-Prediction)** - Predicts academic performance using machine learning.
 
 ---
 
