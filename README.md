@@ -1,51 +1,45 @@
-<!-- GitHub Profile README.md Template -->
-
-  <h1 align="center">Hi, I'm Abdullah 👋</h1>
+<h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center">
-  <em>Machine Learning & AI Engineer | Data Enthusiast | Open Source Contributor</em>
+  <em>Web Developer | AI Enthusiast | Open Source Contributor</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💡 I enjoy turning data into actionable insights and solving real-world problems.
-- 🌱 Currently learning deployment to work on freelancing platforms like Fiverr.
-- 🎯 Goals: To create impactful machine learning projects and contribute to open source.
-- ⚡ Fun Fact: I love exploring new technologies and automating workflows.
+- 💡 Passionate about building responsive and interactive websites.
+- 🌱 Currently exploring AI integration with web technologies.
+- 🌎 Goals: To master modern web development frameworks and contribute to open source projects.
+- ✨ Fun Fact: I enjoy creating clone websites and challenging myself with unique designs.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🔧 Technologies and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FFDD44?style=for-the-badge&logo=mediapipe&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah8644&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah8644&theme=radical" width="48%"/>
 </p>
 
 ---
 
 ### 🏆 My Projects
-- **[Game Recommendation System](https://github.com/Abdullah8644/Game-Recommendation-System)** - Recommends games based on similarity with user preferences.
-- **[Student Performance Predictor](https://github.com/Abdullah8644/Student-Performance-Prediction)** - Predicts academic performance using machine learning.
 
 ---
 
-### 📫 Connect with Me
+### 📢 Connect with Me
 <p>  
-  <a href="www.linkedin.com/in/abdullah-ansir-81a108266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abdullahansir8644@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Abdulla8644" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Abdullah8644" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
